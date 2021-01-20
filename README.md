@@ -14,7 +14,7 @@ Test dataset created for the purpose of testing the algorithm.
 
 ## Requirements
 
-Python 3.8.x
-requests: a Python HTTP library 
-PyPDF2: a Python library built as a PDF toolkit
-openpyxl: a Python library to read/write Excel files
+* Python 3.8.x
+* requests: a Python HTTP library 
+* PyPDF2: a Python library built as a PDF toolkit
+* openpyxl: a Python library to read/write Excel files
