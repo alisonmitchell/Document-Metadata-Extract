@@ -1,0 +1,12 @@
+﻿DOC ID,Name,Multimedia Type,Live Date,Expiry Date,Author,Area of expertise,Researchers,Website URL,Location
+doc:123456,File example 150KB,PDF,01/01/1990 00:00,05/20/2099 12:00 AM,file-examples.com, , ,https://file-examples-com.github.io/uploads/2017/10/file-sample_150kB.pdf,
+doc:654321,File example 500KB,PDF,01/01/1990 00:00,05/20/2099 12:00 AM,file-examples.com,,,https://file-examples-com.github.io/uploads/2017/10/file-example_PDF_500_kB.pdf,
+doc:246810,File example XLS 10 rows,Excel,01/01/1990 00:00,05/20/2099 12:00 AM,file-examples.com,,,https://file-examples-com.github.io/uploads/2017/02/file_example_XLSX_10.xlsx,
+doc:1357911,File example XLS 50 rows,Excel,01/01/1990 00:00,05/20/2099 12:00 AM,file-examples.com,,,https://file-examples-com.github.io/uploads/2017/02/file_example_XLSX_50.xlsx,
+doc:11223344,"5G;
+Study on channel model for frequencies from 0.5 to 100 GHz
+(3GPP TR 38.901 version 14.3.0 Release 14)",PDF,01/01/1990 00:00,05/20/2099 12:00 AM,etsi.org,,,https://www.etsi.org/deliver/etsi_tr/138900_138999/138901/14.03.00_60/tr_138901v140300p.pdf,
+doc:55667788,"Universal Mobile Telecommunications System (UMTS);
+Redial solution for voice-video switching
+(3GPP TR 23.903 version 6.0.0 Release 6)",PDF,01/01/1990 00:00,05/20/2099 12:00 AM,etsi.org,,,https://www.etsi.org/deliver/etsi_tr/123900_123999/123903/06.00.00_60/tr_123903v060000p.pdf,
+doc:123321,Hat,PDF,01/01/1990 00:00,05/20/2099 12:00 AM,techslides.com,,,http://techslides.com/demos/samples/sample.pdf,

@@ -1,0 +1,8 @@
+DOC ID,Website URL,Author,Title,Subject,Keywords,Number of pages,Error,Row
+doc:123456,https://file-examples-com.github.io/uploads/2017/10/file-sample_150kB.pdf,file-examples.com - (None),,,None,4,None,0
+doc:654321,https://file-examples-com.github.io/uploads/2017/10/file-example_PDF_500_kB.pdf,file-examples.com - (None),,,None,5,None,1
+doc:246810,https://file-examples-com.github.io/uploads/2017/02/file_example_XLSX_10.xlsx,file-examples.com - (Empty),Empty,,,,None,2
+doc:1357911,https://file-examples-com.github.io/uploads/2017/02/file_example_XLSX_50.xlsx,file-examples.com - (Empty),Empty,,,,None,3
+doc:11223344,https://www.etsi.org/deliver/etsi_tr/138900_138999/138901/14.03.00_60/tr_138901v140300p.pdf,etsi.org - (TSGR),TR 138 901 - V14.3.0 - 5G; Study on channel model for frequencies from 0.5 to 100 GHz  (3GPP TR 38.901 version 14.3.0 Release 14),TR 138 901 - V14.3.0,5G,95,None,4
+doc:55667788,https://www.etsi.org/deliver/etsi_tr/123900_123999/123903/06.00.00_60/tr_123903v060000p.pdf,etsi.org - (),,,,,"From getXmpMetadata not well-formed (invalid token): line 1, column 1",5
+doc:123321,http://techslides.com/demos/samples/sample.pdf,techslides.com - (None),,,None,1,None,6
